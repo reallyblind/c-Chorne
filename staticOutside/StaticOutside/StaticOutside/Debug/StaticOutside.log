@@ -1,0 +1,4 @@
+﻿  Static.cpp
+  LINK : D:\workspace\c++\learn\staticOutside\StaticOutside\Debug\StaticOutside.exe not found or not built by the last incremental link; performing full link
+Static.obj : error LNK2005: "void __cdecl function(void)" (?function@@YAXXZ) already defined in Main.obj
+D:\workspace\c++\learn\staticOutside\StaticOutside\Debug\StaticOutside.exe : fatal error LNK1169: one or more multiply defined symbols found

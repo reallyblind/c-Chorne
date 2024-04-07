@@ -1,0 +1,7 @@
+﻿  Main.cpp
+D:\workspace\c++\learn\ImplicitExplicit\ImplicitExplicit\ImplicitExplicit\Main.cpp(29,16): error C2664: 'void PrintEntity(const Entity &)': cannot convert argument 1 from 'int' to 'const Entity &'
+D:\workspace\c++\learn\ImplicitExplicit\ImplicitExplicit\ImplicitExplicit\Main.cpp(29,16): message : Reason: cannot convert from 'int' to 'const Entity'
+D:\workspace\c++\learn\ImplicitExplicit\ImplicitExplicit\ImplicitExplicit\Main.cpp(29,16): message : Constructor for class 'Entity' is declared 'explicit'
+D:\workspace\c++\learn\ImplicitExplicit\ImplicitExplicit\ImplicitExplicit\Main.cpp(22,6): message : see declaration of 'PrintEntity'
+D:\workspace\c++\learn\ImplicitExplicit\ImplicitExplicit\ImplicitExplicit\Main.cpp(33,15): error C2440: 'initializing': cannot convert from 'int' to 'Entity'
+D:\workspace\c++\learn\ImplicitExplicit\ImplicitExplicit\ImplicitExplicit\Main.cpp(33,15): message : Constructor for class 'Entity' is declared 'explicit'

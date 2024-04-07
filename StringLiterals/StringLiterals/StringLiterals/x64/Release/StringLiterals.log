@@ -1,0 +1,2 @@
+﻿  Main.cpp
+D:\workspace\c++\learn\StringLiterals\StringLiterals\StringLiterals\Main.cpp(11,8): error C3892: 'name': you cannot assign to a variable that is const
