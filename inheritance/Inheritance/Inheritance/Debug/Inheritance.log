@@ -1,4 +1,0 @@
-﻿  Main.cpp
-D:\workspace\c++\learn\inheritance\Inheritance\Inheritance\Main.cpp(20,1): error C2248: 'Entity::Move': cannot access private member declared in class 'Entity'
-D:\workspace\c++\learn\inheritance\Inheritance\Inheritance\Main.cpp(7): message : see declaration of 'Entity::Move'
-D:\workspace\c++\learn\inheritance\Inheritance\Inheritance\Main.cpp(3): message : see declaration of 'Entity'

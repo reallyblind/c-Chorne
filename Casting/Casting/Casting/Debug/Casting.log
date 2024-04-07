@@ -1,3 +1,0 @@
-﻿  Main.cpp
-D:\workspace\c++\learn\Casting\Casting\Casting\Main.cpp(29,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  Casting.vcxproj -> D:\workspace\c++\learn\Casting\Casting\Debug\Casting.exe
